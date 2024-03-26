@@ -60,3 +60,10 @@ html {
 .tabs div[role="tabpanel"].active {
     display: block;
 }
+
+
+/**
+ * reference: https://www.w3schools.com/w3css/w3css_tabulators.asp
+* https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap
+*https://www.w3schools.com/cssref/sel_active.phps
+ */
